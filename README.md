@@ -1,4 +1,4 @@
-# 👋 Hello, world! I'm a dedicated developer turning ideas into impactful solutions. 🚀
+## 👋  [![](https://visitcount.itsvg.in/api?id=ifrah-ashraf&icon=5&color=0)](https://visitcount.itsvg.in)
 
 🔭 I'm currently working on a multithreaded web scraper.<br><br>🤝 I’m learning Go and seeking collaboration on backend projects for handling high user concurrency.<br><br>📚 I'm diving into microservices, gRPC, Kubernetes, and containerization.<br><br>⚡ Fun fact: I'm majoring in Cybersecurity.
 
@@ -14,6 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ifrah-ashraf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ifrah-ashraf&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
