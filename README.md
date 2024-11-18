@@ -1,6 +1,6 @@
 ## 👋  [![](https://visitcount.itsvg.in/api?id=ifrah-ashraf&icon=5&color=0)](https://visitcount.itsvg.in)
 
-🔭 I'm currently working on a multithreaded web scraper.<br><br>🤝 I’m learning Go and seeking collaboration on backend projects for handling high user concurrency.<br><br>📚 I'm diving into microservices, gRPC, Kubernetes, and containerization.<br><br>⚡ Fun fact: I'm majoring in Cybersecurity.
+🚀 I'm currently Building a real-time chat application.<br><br>🤝 I’m learning Go and seeking collaboration on backend projects for handling high user concurrency.<br><br>📚 I'm diving into microservices, gRPC, Kubernetes, and containerization.<br><br>⚡ Fun fact: I'm majoring in Cybersecurity.
 
 
 ## 🌐 Socials:
