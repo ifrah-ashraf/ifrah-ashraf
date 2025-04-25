@@ -1,6 +1,6 @@
 ## 👋  [![](https://visitcount.itsvg.in/api?id=ifrah-ashraf&icon=5&color=0)](https://visitcount.itsvg.in)
 
-Building real-time, high-concurrency backend systems with Go and diving deep into microservices, Kubernetes, and cloud-native development.
+Building real-time applications.
 
 
 ## 🌐 Socials:
